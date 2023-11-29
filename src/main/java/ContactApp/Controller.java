@@ -1,6 +1,7 @@
-package ContactApp.Facade;
+package ContactApp;
 
-import ContactApp.Contact;
+import ContactApp.Facade.ContactDto;
+import ContactApp.Facade.ContactFacade;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Collection;
